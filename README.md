@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Student Feedback System
 
 ## Description
@@ -110,4 +110,4 @@ PCCOE
 Khush Paliwal
 =======
 # student-_feedback
->>>>>>> ef2acdc35081165db33c66a94d71361b8e5f8a22
+
